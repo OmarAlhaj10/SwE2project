@@ -1,0 +1,6 @@
+# Project exclude paths
+/applicant-service/target/
+/eureka-server/target/
+/gateway/target/
+/interview-service/target/
+/job-service/target/
