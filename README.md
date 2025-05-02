@@ -30,7 +30,3 @@ Each service has its own package structure with controller, service, repository,
 - Spring Cloud (Eureka, Gateway)
 - MySQL
 - Maven
-
----
-
-This file will be updated as the project progresses.
